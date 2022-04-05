@@ -1,0 +1,167 @@
+[
+    {
+        "id": 1,
+        "imageUrl": "https://i.infocar.ua/i/12/5886/1400x936.jpg",
+        "name": "Skoda Superb 2.0 TSI AT Ambition",
+        "count": 7,
+        "size": {
+            "length":4869,
+            "width": 2031,
+            "height": 1488
+        },
+        "weight": "1455kg",
+        "comments": [
+            "Максимальна потужність : 190 к.с.",
+            "Норма токсичності: Euro VI"
+        ]
+        
+    },
+    {
+        "id": 2,
+        "imageUrl": "https://toyota-ua.com/uploads/media/dc_car_gallery/0001/38/thumb_37420_dc_car_gallery_new_slider.jpeg.webp",
+        "name": "Toyota Corolla Sedan 1.6 AT City",
+        "count": 6,
+        "size": {
+            "length":4630,
+            "width": 1780,
+            "height": 1435
+        },
+        "weight": "1385 кг",
+        "comments": [
+            "Максимальна потужність : 132 к.с.",
+            "Норма токсичності: Euro VI"
+        ]
+    },
+    {
+        "id": 3,
+        "imageUrl": "https://cdn.motor1.com/images/mgl/8OBBB/s3/vw-golf-viii.jpg",
+        "name": "Volkswagen Golf eTSI",
+        "count": 7,
+        "size": {
+            "length":4255,
+            "width": 1799,
+            "height": 1452
+        },
+        "weight": "1448кг",
+        "comments": [
+            "Максимальна потужність :150 - 245 к.с.",
+            "Норма токсичності: Euro VI"
+        ]
+    },
+    {
+        "id": 4,
+        "imageUrl": "https://motor.ru/thumb/1500x0/filters:quality(75):no_upscale()/imgs/2022/01/19/10/5179223/bc86c639559d6e640192d0df320f6b0f91f0ccd9.jpg",
+        "name": "Mitsubishi Pajero Sport ",
+        "count": 3,
+        "size": {
+            "length": 4825,
+            "width": 1815,
+            "height": 1835
+        },
+        "weight": "2030кг",
+        "comments": [
+            "Максимальна потужність : 209 к.с.",
+            "Норма токсичності: Euro VI"
+        ]
+    },
+    {
+        "id": 5,
+        "imageUrl": "https://i.infocar.ua/i/12/5539/1200x800.jpg",
+        "name": "Hyundai Santa Fe 2.5 MPI AT Dynamic 4WD",
+        "count": 6,
+        "size": {
+            "length": 4785,
+            "width": 1900,
+            "height": 1685
+        },
+        "weight": "2123кг",
+        "comments": [
+            "Максимальна потужність :209 к.с.",
+            "Норма токсичності: Euro VI"
+        ]
+    },
+    {
+        "id": 6,
+        "imageUrl": "https://www.auto-data.net/images/f92/BMW-4-Series-Gran-Coupe-G26.jpg",
+        "name": "BMW 4 Series Gran Coupe (G26) M440i xDrive",
+        "count": 2,
+        "size": {
+            "length": 4783,
+            "width": 1852,
+            "height": 1442
+        },
+        "weight": "1430кг",
+        "comments": [
+            "Максимальна потужність :440 к.с.",
+            "Норма токсичності: Euro VI"
+        ]
+    },
+    {
+        "id": 7,
+        "imageUrl": "https://auta5p.eu/katalog/skoda_rus/skoda_rapid_2_01.jpg",
+        "name": "Skoda Rapid 1.4 TSI (122 л.с.) 7-DSG",
+        "count": 5,
+        "size": {
+            "length":4485,
+            "width": 1706,
+            "height": 1475
+        },
+        "weight": "1195kg",
+        "comments": [
+            "Максимальна потужність : 122 к.с.",
+            "Норма токсичності: Euro VI"
+        ]
+        
+    },
+    {
+        "id": 8,
+        "imageUrl": "https://cdn.motor1.com/images/mgl/rMK1X/s1/vw-golf-gti-clubsport-45.jpg",
+        "name": "Volkswagen Golf GTI GTI Clubsport 45",
+        "count": 3,
+        "size": {
+            "length":4287,
+            "width": 1789,
+            "height": 1478
+        },
+        "weight": "1463kg",
+        "comments": [
+            "Максимальна потужність : 300 к.с.",
+            "Норма токсичності: Euro VI"
+        ]
+        
+    },
+    {
+        "id": 9,
+        "imageUrl": "https://i.infocar.ua/i/12/5741/1400x936.jpg",
+        "name": "Hyundai Palisade 3.8 GDI (295 л.с.) 8-АКП",
+        "count": 7,
+        "size": {
+            "length":4980,
+            "width": 1975,
+            "height": 1750
+        },
+        "weight": "1870kg",
+        "comments": [
+            "Максимальна потужність : 295 к.с.",
+            "Норма токсичності: Euro VI"
+        ]
+        
+    },
+    {
+        "id": 10,
+        "imageUrl": "https://i.infocar.ua/i/2/6293/119635/1920x.jpg",
+        "name": "BMW 4 Series Convertible (G23) M440i xDrive",
+        "count": 2,
+        "size": {
+            "length":4768,
+            "width": 2081,
+            "height": 1384
+        },
+        "weight": "1765kg",
+        "comments": [
+            "Максимальна потужність : 374 к.с.",
+            "Норма токсичності: Euro VI"
+        ]
+        
+    }
+]
