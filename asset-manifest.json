@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c390aa1e.css",
+    "main.js": "/static/js/main.77d4988c.js",
+    "static/js/787.2421acc1.chunk.js": "/static/js/787.2421acc1.chunk.js",
+    "static/media/lato-bold-webfont.svg": "/static/media/lato-bold-webfont.d9a82ac21d134a69bf37.svg",
+    "static/media/raleway-regular-webfont.svg": "/static/media/raleway-regular-webfont.590f58918fa6b1da81c3.svg",
+    "static/media/raleway-semibold-webfont.svg": "/static/media/raleway-semibold-webfont.971b1a8fde08b76234e9.svg",
+    "static/media/raleway-bold-webfont.svg": "/static/media/raleway-bold-webfont.96fc35c03dc0b76a2cc0.svg",
+    "static/media/raleway-medium-webfont.svg": "/static/media/raleway-medium-webfont.a30d2710370c20ea5fb3.svg",
+    "static/media/lato-bold-webfont.woff": "/static/media/lato-bold-webfont.9861688d699566a9b020.woff",
+    "static/media/lato-bold-webfont.woff2": "/static/media/lato-bold-webfont.4958a5fc3df6d3e946a0.woff2",
+    "static/media/raleway-regular-webfont.woff": "/static/media/raleway-regular-webfont.234305aa0bbfcc1d85ed.woff",
+    "static/media/raleway-semibold-webfont.woff": "/static/media/raleway-semibold-webfont.1239b848ca7e68c69b8f.woff",
+    "static/media/raleway-bold-webfont.woff": "/static/media/raleway-bold-webfont.1a4b7fdc65ee529c3b89.woff",
+    "static/media/raleway-medium-webfont.woff": "/static/media/raleway-medium-webfont.ebd1a2471e12f2c803a7.woff",
+    "static/media/raleway-regular-webfont.woff2": "/static/media/raleway-regular-webfont.5a7f3b6742b8241ccbcf.woff2",
+    "static/media/raleway-medium-webfont.woff2": "/static/media/raleway-medium-webfont.13596c6b8c8b13666739.woff2",
+    "static/media/raleway-bold-webfont.woff2": "/static/media/raleway-bold-webfont.dccce9d97c48081925a0.woff2",
+    "static/media/raleway-semibold-webfont.woff2": "/static/media/raleway-semibold-webfont.a03723b6f88c8a485666.woff2",
+    "index.html": "/index.html",
+    "main.c390aa1e.css.map": "/static/css/main.c390aa1e.css.map",
+    "main.77d4988c.js.map": "/static/js/main.77d4988c.js.map",
+    "787.2421acc1.chunk.js.map": "/static/js/787.2421acc1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c390aa1e.css",
+    "static/js/main.77d4988c.js"
+  ]
+}
